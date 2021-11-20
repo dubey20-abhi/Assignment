@@ -1,0 +1,62 @@
+.button1 {
+    border: 1px solid grey;
+    width: 50%;
+    margin-left: 350px;
+    margin-right: 50%;
+    margin-top: 200px;
+}
+
+.button1 h3 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 1px;
+    padding: auto;
+    height: 5px;
+}
+
+.button2 {
+    border: 1px solid grey;
+    width: 50%;
+    margin-left: 350px;
+    margin-right: 50%;
+    margin-top: 10px;
+}
+
+.button2 h3 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 1px;
+    padding: auto;
+    height: 5px;
+}
+
+.button3 {
+    border: 1px solid grey;
+    width: 50%;
+    margin-left: 350px;
+    margin-right: 50%;
+    margin-top: 10px;
+}
+
+.button3 h3 {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 1px;
+    padding: auto;
+    height: 5px;
+}
+
+#btn_clr_red, #btn_clr_neavy, #btn_clr_yellow, #btn_fnt_10px, #btn_fnt_20px, #btn_fnt_30px, #btn_fs_1, #btn_fs_2, #btn_fs_3 {
+    height: 30px;
+    width: 60px;
+    text-align: center;
+    padding: 0px 10px 0px 10px;
+    margin: 5px 50px 5px 50px;
+}
+
+.text p {
+    position: relative;
+    left: auto;
+    height: 150px;
+    width: 100%;
+}
